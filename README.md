@@ -14,7 +14,7 @@
 
 **`Installation`**
 
-Make sure you have php and mysql (phpmyadmin) installed before
+<i>Make sure you have <b>PHP</b> and <b>Mysql</b> (phpmyadmin) installed before</i>
 
 ```
 $ git clone https://github.com/Lucstay11/Classroom-chat/
