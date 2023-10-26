@@ -21,7 +21,7 @@ $ git clone https://github.com/Lucstay11/Classroom-chat/
 $ cd Classroom-chat/
 ```
 
-<i>Create a mysql database with "chat" name and then import the <br>chat.sql</br> file from this project</i>
+<i>Create a mysql database with <b>chat</b> name and then import the <b>chat.sql</b> file from this project</i>
 
 **`Start the web server in local`**
 
