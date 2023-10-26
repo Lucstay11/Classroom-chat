@@ -13,10 +13,12 @@
 </p>
 
 **`Installation`**
+Make sure you have php and mysql (phpmyadmin) installed before
 
 ```
 $ git clone https://github.com/Lucstay11/Classroom-chat/
 $ cd Classroom-chat
 ```
+Create a mysql database with "chat" name and then import the <br>chat.sql</br> file from this project
 
 
