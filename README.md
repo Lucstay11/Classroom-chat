@@ -12,7 +12,7 @@
   <img height="600" src="img/demo4.png">
 </p>
 
-**`Installation`*
+**`Installation`**
 
 Make sure you have php and mysql (phpmyadmin) installed before
 
