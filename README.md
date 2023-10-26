@@ -11,3 +11,12 @@
 <p align="center">
   <img height="600" src="img/demo4.png">
 </p>
+
+**`Installation`**
+
+```
+$ git clone https://github.com/Lucstay11/Classroom-chat/
+$ cd Classroom-chat
+```
+
+
