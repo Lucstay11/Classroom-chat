@@ -2,7 +2,7 @@
 <p align="center">
   <img height="600" src="img/demo1.png">
 </p>
-<i align="center">Edit your profile and choose your avatar!</i>
+<i align="center">Edit your profile and choose your avatar!Administer each user in the group and control rights to obtain a chat that respects the rules!</i>
 <p align="center">
   <img height="600" src="img/demo2.png">
    <img height="600" src="img/demo3.png">
