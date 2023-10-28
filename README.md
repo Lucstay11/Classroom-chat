@@ -20,7 +20,7 @@
 $ git clone https://github.com/Lucstay11/Classroom-chat/
 $ cd Classroom-chat/
 ```
-<i>Edit the <b>Database/connect.php</b> and setup your database connection </i>
+<i>Edit the <b>Database/connect.php</b> and setup your database connection </i><br>
 <i>Create a mysql database with <b>chat</b> name and then import the <b>chat.sql</b> file from this project</i>
 
 **`Start the web server in local`**
