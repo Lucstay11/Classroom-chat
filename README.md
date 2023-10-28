@@ -28,7 +28,7 @@ $ cd Classroom-chat/
 ```
 $ php -S 0.0.0.0:1111
 ```
-<i>You can also run the app with <b>Apache2</b> or <b>Nginx</b>!</i>
+<i>You can also run the app with <b>Apache2</b> or <b>Nginx</b>!</i><br>
 <i>Default password for admin is <b>admin</b></i>
 
 
