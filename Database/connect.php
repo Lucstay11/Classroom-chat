@@ -1,8 +1,8 @@
 <?php
 //SETUP HERE THE CONNECTION AT THE DATABASE
-$HOST="localhost";
-$USER="lulu";
-$PASS="root";
+$HOST="";
+$USER="";
+$PASS="";
  try{
     $database = new PDO('mysql:host='.$HOST.';dbname=chat',$USER,$PASS, array(PDO::ATTR_PERSISTENT => true)); // Persistent connection
  }
