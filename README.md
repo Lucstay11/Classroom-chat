@@ -20,7 +20,7 @@
 $ git clone https://github.com/Lucstay11/Classroom-chat/
 $ cd Classroom-chat/
 ```
-<i>Create a mysql database with <b>chat</b> name and then import the <b>chat.sql</b> file from this project</i>
+<i>Edit the <b>Database/connect.php</b> and setup your database connection </i>
 <i>Create a mysql database with <b>chat</b> name and then import the <b>chat.sql</b> file from this project</i>
 
 **`Start the web server in local`**
@@ -29,5 +29,6 @@ $ cd Classroom-chat/
 $ php -S 0.0.0.0:1111
 ```
 <i>You can also run the app with <b>Apache2</b> or <b>Nginx</b>!</i>
+<i>Default password for admin is <b>admin</b></i>
 
 
