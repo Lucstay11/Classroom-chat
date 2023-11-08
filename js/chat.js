@@ -82,7 +82,7 @@ function envoyer(data){if(messagegroupe.value!=="" || preloadsendimg.src!==""){a
 function ecris(){if(messagegroupe.value!==""){action("ecris","on");}else{action("ecris","off");}}
 function password(){
   setTimeout(()=>{passinfo.textContent="";userpass1.value="";userpass2.value=""},1500);
-  if(userpass1.value == userpass2.value && userpass1.value!=="" && userpass2.value!==""){action("password",userpass2.value);}else{passinfo.textContent="Mot de passe non identique!";}
+  if(userpass1.value == userpass2.value && userpass1.value!=="" && userpass2.value!==""){action("password",userpass2.value);}else{passinfo.textContent="Not the same password!";}
 }
 function changegroupname(data){if(igroupname.value!==""){action("groupname",data);view('group-name');}}
 function like(act,data){action(act,data);}
