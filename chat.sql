@@ -34,9 +34,7 @@ CREATE TABLE `setting` (
   `nom_groupe` varchar(100) COLLATE utf8mb4_general_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Déchargement des données de la table `setting`
---
+
 
 INSERT INTO `setting` (`id`, `nom_groupe`) VALUES
 (0, 'Your Group 🤣');
